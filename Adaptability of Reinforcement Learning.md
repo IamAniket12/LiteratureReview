@@ -1,4 +1,4 @@
-# Slide 1: Title Slide
+# Slide 1: 
 
 **Evaluating the Adaptability of Reinforcement Learning Based HVAC Control for Residential Houses**  
 **Kuldeep Kurte, Jeffrey Munk, Olivera Kotevska, Kadir Amasyali, Robert Smith, Evan McKee, Yan Du, Borui Cui, Teja Kuruganti, Helia Zandi**  
